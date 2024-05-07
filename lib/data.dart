@@ -44,25 +44,25 @@ List<Map> formation = [
 
   {
 
-    "img": "mm.png",
+    "img": "mds.png",
 
-    "name": "Merveilleux moment",
+    "name": "My digital School - campus de Paris",
 
     "description":
 
-        "Realisation d'un site web en reactJS pour le front et en NodeJs (ExpressJS) pour le back, pour une entreprise de decoration d'evenement lors de mon stage de fin de Bachelor 3"
+        "bachelor 3 - Developpeur Web "
 
   },
 
   {
 
-    "img": "avatar.png",
+    "img": "rodez.png",
 
-    "name": "Portfolio",
+    "name": "IUT de Rodez",
 
     "description":
 
-        "Realisation de mon portfolio en reactJS pour le front et en NodeJs (ExpressJS) pour le back"
+        "DUT - DUT Informatique"
 
   },
 ];
