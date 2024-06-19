@@ -12,13 +12,10 @@ class MainApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
-      theme:  ThemeData(
-        brightness: Brightness.light,
-        scaffoldBackgroundColor: Colors.grey.shade100,
-        primarySwatch: Colors.teal
-      ),
-
-
+      theme: ThemeData(
+          brightness: Brightness.light,
+          scaffoldBackgroundColor: Colors.grey.shade100,
+          primarySwatch: Colors.teal),
       home: const Scaffold(
         body: Center(
           child: DeviceScreen(),
